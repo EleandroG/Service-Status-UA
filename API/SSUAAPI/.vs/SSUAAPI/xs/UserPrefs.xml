@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{88F3CD81-514A-476A-BC68-149F63DBB4D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SSUAAPI/Controllers/ServiceController.cs">
+    <Files>
+      <File FileName="SSUAAPI/Controllers/ServiceController.cs" Line="89" Column="15" />
+      <File FileName="SSUAAPI/Model/Service.cs" Line="22" Column="6" />
+      <File FileName="SSUAAPI/Startup.cs" Line="59" Column="81" />
+      <File FileName="SSUAAPI/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SSUAAPI" expanded="True">
+            <Node name="SSUAAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ServiceController.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SSUAAPI PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
